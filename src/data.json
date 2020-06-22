@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Rocky",
+    "last_name": "Pieters",
+    "role": "Administrative Officer",
+    "department": "Product Management"
+  },
+  {
+    "id": 2,
+    "first_name": "Guntar",
+    "last_name": "Whiskerd",
+    "role": "Statistician IV",
+    "department": "Marketing"
+  },
+  {
+    "id": 3,
+    "first_name": "Jesselyn",
+    "last_name": "Slewcock",
+    "role": "Civil Engineer",
+    "department": "Support"
+  },
+  {
+    "id": 4,
+    "first_name": "Regan",
+    "last_name": "Weight",
+    "role": "Account Representative II",
+    "department": "Product Management"
+  },
+  {
+    "id": 5,
+    "first_name": "Kayley",
+    "last_name": "Francombe",
+    "role": "Staff Accountant III",
+    "department": "Marketing"
+  },
+  {
+    "id": 6,
+    "first_name": "Candra",
+    "last_name": "Camilleri",
+    "role": "Junior Executive",
+    "department": "Training"
+  },
+  {
+    "id": 7,
+    "first_name": "Debi",
+    "last_name": "Munford",
+    "role": "Programmer III",
+    "department": "Product Management"
+  },
+  {
+    "id": 8,
+    "first_name": "Sheppard",
+    "last_name": "Reford",
+    "role": "Recruiter",
+    "department": "Product Management"
+  },
+  {
+    "id": 9,
+    "first_name": "Aubert",
+    "last_name": "Garrison",
+    "role": "Speech Pathologist",
+    "department": "Sales"
+  },
+  {
+    "id": 10,
+    "first_name": "Benjy",
+    "last_name": "Rouchy",
+    "role": "Assistant Media Planner",
+    "department": "Services"
+  }
+]
