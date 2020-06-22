@@ -13,7 +13,7 @@ function App() {
     <div className="container">
       <table className="mt-5 table">
         {/* table header */}
-        <HeaderRow columnNames = {['First Name','Last Name','Role','Department']} dat/>
+        <HeaderRow columnNames = {['First Name','Last Name','Role','Department']}/>
         {/* table rows */}
         <tbody>
           {json.map(row => <DataRow thisRow = {row}/>)}
